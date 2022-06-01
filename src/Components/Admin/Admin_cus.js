@@ -8,7 +8,7 @@ export default function Admin_cus() {
     <tr >
       <th scope="col">id</th>
       <th scope="col">Name</th>
-      <th scope="col">Email</th>
+      <th scope="col">EMAIL</th>
       <th scope="col">Phone</th>
       <th scope="col">Housekeeper Booked</th>
     </tr>
